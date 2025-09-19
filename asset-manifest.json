@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/agri-elite/static/css/main.2ae6fbfe.css",
+    "main.js": "/agri-elite/static/js/main.5fc8249a.js",
+    "static/media/bg.jpg": "/agri-elite/static/media/bg.f30ef06614651445c59a.jpg",
+    "static/media/bg (6).jpg": "/agri-elite/static/media/bg (6).33a931896949ec0ea04a.jpg",
+    "static/media/bg (7).jpg": "/agri-elite/static/media/bg (7).475a937f3e31567c5199.jpg",
+    "static/media/chilli.jpg": "/agri-elite/static/media/chilli.34172f6b4900df4f3eb1.jpg",
+    "static/media/bg (2).jpg": "/agri-elite/static/media/bg (2).54a6d884c022b81f366b.jpg",
+    "static/media/corn.jpg": "/agri-elite/static/media/corn.361e09cb624c5f613eef.jpg",
+    "static/media/wheat.jpg": "/agri-elite/static/media/wheat.bcd06130d934540cc767.jpg",
+    "static/media/rice.jpg": "/agri-elite/static/media/rice.197084044de840ae02e7.jpg",
+    "static/media/bg (3).jpg": "/agri-elite/static/media/bg (3).8a35939b6d8c937b1361.jpg",
+    "static/media/tomato.jpg": "/agri-elite/static/media/tomato.472c8aa3e1da97c53861.jpg",
+    "static/media/bg (4).jpg": "/agri-elite/static/media/bg (4).39cf8fd7c045eb9b9600.jpg",
+    "static/media/sunflower (2).jpg": "/agri-elite/static/media/sunflower (2).8cd392be62b6e30e1a16.jpg",
+    "static/media/potato.jpg": "/agri-elite/static/media/potato.547b7bef7eefc9b9e756.jpg",
+    "static/media/bg (5).jpg": "/agri-elite/static/media/bg (5).26e4031ea199651b0c26.jpg",
+    "static/media/onion.jpg": "/agri-elite/static/media/onion.aab3c3f4b0f2f6545645.jpg",
+    "static/media/bg3.jpg": "/agri-elite/static/media/bg3.7b924c34e07af0c22c1d.jpg",
+    "index.html": "/agri-elite/index.html",
+    "main.2ae6fbfe.css.map": "/agri-elite/static/css/main.2ae6fbfe.css.map",
+    "main.5fc8249a.js.map": "/agri-elite/static/js/main.5fc8249a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae6fbfe.css",
+    "static/js/main.5fc8249a.js"
+  ]
+}
